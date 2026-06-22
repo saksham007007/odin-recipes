@@ -1,0 +1,116 @@
+/* main page */
+
+.main-head{
+    color :red;
+    font-size:80px;
+    text-align:center;
+    background-color: seashell;
+    display:inline;
+    margin-left:650px;
+    border:2px solid red;
+}
+
+.p.one {
+    font-size: 50px;
+    display:block;
+    margin-left:174px;
+    font-weight : 700;
+}
+
+.ul_links{
+    list-style-type: none;
+    padding-left:174px
+}
+
+.links{
+    display:block;
+    margin-bottom:50px;
+    margin-top :50px;
+    font-size: 35px;
+    width : fit-content;
+}
+
+.links:hover{
+   background-color: yellow;
+   color:red;
+}
+
+.main-body{
+    background-color: pink;
+}
+
+
+/* content(pizzza,lasagna,paneer) page */
+
+.content-body{
+    background-color: lightcoral;
+}
+
+.content-head{
+    margin-left:680px;
+    font-size: 100px;
+    font-family:serif;
+    display: block;
+    background-color: red;
+    margin-top:0px;
+    width:fit-content;
+
+}
+
+.content-para{
+    margin-left:100px;
+    margin-right:100px;
+    font-family: serif;
+    margin-top:40px;
+    font-size : 25px;
+    margin-bottom:70px;
+}
+
+.img-content{
+    width:fit-content;
+    height:350px;
+    /* display :block; */
+    /* align-items: center; */
+    /* background-color: red; */
+    margin-left:600px;
+    border : 5px solid red;
+}
+
+.content-small-head{
+    display:block;
+    width:fit-content;
+    margin-left:100px;
+    margin-top:100px;
+    font-size : 50px;
+    font-family: serif;
+    background-color: rgb(145, 0, 0)
+}
+
+.ul-content{
+    margin-left:100px;
+    margin-bottom:100px;
+    
+}
+
+.ul-content li {
+    font-size: 30px ;
+    font-weight: 900 ;
+}
+
+.ol-content{
+   margin-left:100px;
+   margin-bottom:100px;
+}
+
+.ol-content li{
+    font-size: 30px ;
+    font-weight: 900 ;  
+}
+
+.back-button{
+    display:block;
+    text-align: center;
+}
+
+
+
